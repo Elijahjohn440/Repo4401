@@ -1,0 +1,7 @@
+The cd .. command is used to change the current working directory to its parent directory. Here's what each part of the command does:
+
+cd: This is the command to change the current working directory.
+..: This is a shorthand notation for the parent directory.
+So, when you execute cd .., it means "change to the parent directory."
+
+For example, if your current working directory is /home/user/documents, running cd .. would change it to /home/user. It's a way to navigate up the directory tree in the file system.
